@@ -366,7 +366,7 @@ button a {
   margin: 20px auto;
 }
 #Skill-HTML {
-  width: 90%;
+  width: 70%;
   animation: Animate-HTML 4s;
   -webkit-animation: Animate-HTML 4s;
   -moz-animation: Animate-HTML 4s;
@@ -642,7 +642,7 @@ to {
   -webkit-animation: Animate-PO 4s;
   -moz-animation: Animate-PO 4s;
   -o-animation: Animate-PO 4s;
-  width: 85%;
+  width: 65%;
   height: 50px;
   position: absolute;
   background-color: #23b1db;
